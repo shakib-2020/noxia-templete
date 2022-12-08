@@ -1,0 +1,195 @@
+/* leptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+}
+
+
+/* lg :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .logo {
+    margin-top: -5px;
+  }
+  .header-right {
+    margin-left: 40px;
+  }
+  .slider-text {
+    margin-top: 270px;
+  }
+  .slider-text h2 {
+    font-size: 68px;
+  }
+  .slider-thumb img {
+    width: 200%;
+  }
+  .solu-text {
+    padding-top: 0;
+  }
+  .test-body {
+    padding: 0 10%;
+  }
+  #scrollUp {
+    right: 30px;
+  }
+
+}
+
+
+/* Tablet/md desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .header {
+    padding: 22px 0;
+  }
+  .header-cta a {
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  .header-right {
+    margin-left: 0px;
+    float: right;
+    margin-right: 75px;
+    margin-top: 14px;
+  }
+  .single-slider {
+    min-height: 540px;
+  }
+  .slider-thumb{
+    display: none;
+  }
+  .slider-text {
+    margin-top: 45%;
+    margin-bottom: 22%;
+  }
+  .slider-text h2 {
+    font-size: 66px;
+    margin-right: 0;
+  }
+  .single-slider {
+	min-height: 540px;
+  }
+  .single-feature {
+    text-align: center;
+  }
+  .section-title h2 {
+    font-size: 44px;
+  }
+  .price-box.active {
+    background: linear-gradient(328.78deg, #030086 14.45%, #BD6177 84.36%), linear-gradient(301.28deg, #209B4A 0%, #7000FF 100%), radial-gradient(100% 138.56% at 100% 0%, #D50000 0%, #00FFE0 100%), radial-gradient(100% 148.07% at 0% 0%, #D50000 0%, #00FFFF 100%) !important;
+    background-blend-mode: soft-light, overlay, difference, normal;
+    border: none;
+  }
+  .feature-text {
+    padding: 0 24%;
+  }
+  .solu-img img {
+    display: none;
+  }
+  .solution-area {
+    padding-top: 45px;
+  }
+  .event-text {
+    padding: 0px 5%;
+  }
+  #scrollUp {
+    right: 25px;
+  }
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  .topbar-area {
+    display: none;
+  }
+  .header {
+    padding: 22px 0;
+  }
+  .header-cta a {
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  .header-right {
+    margin-left: 0px;
+    float: right;
+    margin-right: 75px;
+    margin-top: 14px;
+  }
+  .slider-thumb{
+    display: none;
+  }
+  .slider-text {
+    margin-top: 45%;
+    margin-bottom: 22%;
+  }
+  .slider-text h2 {
+    font-size: 45px;
+    margin-right: 0;
+  }
+  .slider-text p {
+    font-size: 18px;
+  }
+  .single-slider {
+	min-height: 540px;
+  }
+  .btn {
+    padding: 19px 25px;
+  }
+  .single-feature {
+    text-align: center;
+  }
+  .section-title h2 {
+    font-size: 44px;
+  }
+  .feature-head h2 {
+    font-size: 28px;
+  }
+  .feature-text {
+    padding: 0 24%;
+  }
+  .video-area {
+    height: 585px;
+  }
+  .single-fact {
+    justify-content: center;
+  }
+  .fact-text h2 {
+    margin-right: 22px;
+  }
+  .solu-img img {
+    display: none;
+  }
+  .solution-area {
+    padding-top: 45px;
+  }
+  .price-box.active {
+    background: linear-gradient(328.78deg, #030086 14.45%, #BD6177 84.36%), linear-gradient(301.28deg, #209B4A 0%, #7000FF 100%), radial-gradient(100% 138.56% at 100% 0%, #D50000 0%, #00FFE0 100%), radial-gradient(100% 148.07% at 0% 0%, #D50000 0%, #00FFFF 100%) !important;
+    background-blend-mode: soft-light, overlay, difference, normal;
+    border: none;
+  }
+  .member-text h3 {
+    font-size: 22px;
+  }
+  .member-text span {
+    font-size: 14px;
+  }
+  .event-text {
+    padding: 0px 5%;
+  }
+  .quote-shape01 {
+    left: -38px;
+  }
+  .quote-form {
+    padding-top: 88px;
+  }
+  .test-profile::before {
+    left: 16%;
+  }
+  .test-profile::after {
+    right: 16%;
+  }
+  #scrollUp {
+    right: 25px;
+  }
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 520px) and (max-width: 767px) {
+}
